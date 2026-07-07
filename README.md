@@ -57,7 +57,8 @@ This project analyzes the IBM HR Analytics dataset using Python and Power BI to 
 
 ## IBM HR Attrition Dashboard
 
-![HR Dashboard]("C:\Users\User\OneDrive\Desktop\Pictures\Screenshots\Screenshot 2026-07-06 182000.png")
+<img width="1162" height="647" alt="Screenshot 2026-07-06 182000" src="https://github.com/user-attachments/assets/7ffbe656-72e5-4d4b-98d6-8535f7b54c8d" />
+
 
 ### Dashboard Highlights
 
