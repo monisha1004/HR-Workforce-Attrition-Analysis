@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
-plotly
+plotly 
 scikit-learn
 jupyter
 openpyxl
